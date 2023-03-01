@@ -1,0 +1,79 @@
+html {
+	background-image:url('i.jpg');
+	background-attachment: fixed;
+	
+
+	
+	
+	
+}
+
+
+body {
+	font-size: 130%;
+	margin-left: 200px;
+
+
+}
+
+ul {
+}
+
+
+
+
+h1 {
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 56px;
+	text-align: center;
+}
+
+h2 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 25px;
+
+}
+table{
+	margin-left: auto;
+	margin-right:auto;
+	text-align:left;
+	background-color: white;
+}
+th{
+	
+	text-align:left;
+	font-style:normal;
+	font-size:larger;
+
+
+
+}
+caption{
+	text-align: left;
+	font-weight: 1000;
+	font-size: x-large;
+	background-color:lightgreen;	
+}
+menu{
+	
+	margin-left: -230px;
+	position: fixed;
+	max-width: 180px;
+}
+ol{
+
+}
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+ 
